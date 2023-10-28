@@ -1,12 +1,12 @@
 # kuliah php
 
- Download source dan simpan didalam htdocs,
+ Download source dan simpan didalam htdocs,  
  pastikan apache dan mysql di Xampp sudah dihidupkan sebelum membuka index.php di browser.
 
- Didalam MySql bikin database seperti berikut
- nama database : datatoko
- nama table : katalok
- isi kollom : seperti gambar kolom.jpg
- ![image.png]( {https://raw.githubusercontent.com/SunTStudio/kuliahphp/main/kolom.jpg} )
-
+ Didalam MySql bikin database seperti berikut  
+ nama database : datatoko  
+ nama table : katalok  
+ isi kollom : seperti gambar kolom.jpg  
+ ![image.png]( {kolom.jpg} )
+  
 ,Terimakasih
