@@ -7,5 +7,6 @@
  nama database : datatoko
  nama table : katalok
  isi kollom : seperti gambar kolom.jpg
+ ![image.png]( {https://raw.githubusercontent.com/SunTStudio/kuliahphp/main/kolom.jpg} )
 
 ,Terimakasih
